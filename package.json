@@ -1,0 +1,23 @@
+{
+  "name": "js-playground",
+  "version": "1.0.0",
+  "description": "Experiments in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrevorWAdams/js-playground.git"
+  },
+  "author": "Trevor W. Adams (https://trevorwadams.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrevorWAdams/js-playground/issues"
+  },
+  "homepage": "https://github.com/TrevorWAdams/js-playground#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
