@@ -1,3 +1,4 @@
 # js-playground
 
-A collection of JavaScript exercises
+A collection of JavaScript exercises 
+
