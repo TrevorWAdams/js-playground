@@ -8,14 +8,13 @@
 function binaryAdd(x, y) {
   return x + y
 }
+console.log(binaryAdd(2, 3)) // 5
 
 function add(x) {
   return function(y) {
     return x + y
   }
 }
-console.log(binaryAdd(2, 3)) // 5
-
 const addThree = add(3)
 console.log(addThree(2))
 
